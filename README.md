@@ -2,9 +2,13 @@
 
 ## Objective
 To leverage historical Uber trip data to answer critical business questions:
+
 What are the booking and revenue trends over time?
+
 How efficient are the trips in terms of time and distance?
+
 Which payment types, trip types, vehicle types, and locations drive the most business?
+
 How does ride demand vary by time of day and day of week?
 
 ## Dashboard Breakdown
