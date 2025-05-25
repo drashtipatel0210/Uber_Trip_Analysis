@@ -42,8 +42,11 @@ Dashboard 2: Time Analysis
 
 Focuses on ride demand across time intervals to assist with operational optimization.
 Visuals:
+
 Area Chart: Bookings by Pickup Time (10-minute intervals)
+
 Line Chart: Bookings by Day of the Week
+
 Heatmap: Hour vs Day of Week with dynamic measure (Total Bookings/Revenue/Distance)
 
 Dashboard 3: Details Tab
